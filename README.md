@@ -8,7 +8,9 @@ I love to try out new things. As of now, I'm looking to try out:
 - Nodejs/Deno
 - React
 - Webgl
-- WebAssembly
+- Unity3D
+- Blender
+- FLStudio
 
 If you want to contact me, try my mail: jan.vlasman99@gmail.com
 
