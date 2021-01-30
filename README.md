@@ -1,13 +1,12 @@
-# Hey look buddy. I'm an engineer. That means I solve problems.
+# Hey look, buddy. I'm an engineer, that means I solve problems.
 
 Hi. My name is Jan. I build websites, games, simulations and much more!
 
 Currently I'm studying to become a software engineer at [NHL-Stenden].
 
 I love to try out new things. As of now, I'm looking to try out:
-- Nodejs/Deno
-- React
-- Webgl
+- Svelte
+- Vulkan
 - Unity3D
 - Blender
 - FLStudio
