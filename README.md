@@ -5,11 +5,13 @@ Hi. My name is Jan. I build websites, games, simulations and much more!
 Currently I'm studying to become a software engineer at [NHL-Stenden].
 
 I love to try out new things. As of now, I'm looking to try out:
-- Svelte
+
 - Vulkan
-- Unity3D
-- Blender
-- FLStudio
+- Unity
+- PWA
+- CMAKE
+- Kotlin
+- Swift
 
 If you want to contact me, try my mail: jan.vlasman99@gmail.com
 
