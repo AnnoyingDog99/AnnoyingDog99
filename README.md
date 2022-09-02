@@ -9,9 +9,10 @@ I love to try out new things. As of now, I'm looking to try out:
 - Vulkan
 - Unity
 - PWA
-- CMAKE
 - Kotlin
 - Swift
+- Vue
+- Rust
 
 If you want to contact me, try my mail: jan.vlasman99@gmail.com
 
